@@ -1,0 +1,20 @@
+# Data files
+data/raw/
+data/transformed/
+data/interim/
+
+# Python virtual environment
+venv/
+*.pyc
+__pycache__/
+
+# Credentials
+config/aws_credentials.yaml
+config/snowflake_config.yaml
+
+# Power BI files (optional, include if sharing)
+powerbi/tlc_dashboard.pbix
+
+# Airflow logs
+airflow/logs/
+airflow/airflow.db
