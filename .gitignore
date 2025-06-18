@@ -18,3 +18,4 @@ powerbi/tlc_dashboard.pbix
 # Airflow logs
 airflow/logs/
 airflow/airflow.db
+logs/
