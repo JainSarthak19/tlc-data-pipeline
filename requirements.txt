@@ -1,0 +1,4 @@
+pyarrow==17.0.0
+pandas==2.2.3
+boto3==1.35.39
+snowflake-connector-python==3.12.2
